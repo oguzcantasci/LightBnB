@@ -11,7 +11,7 @@ The aim of the project is to design a database with the use of ERDs, create and 
 
 - Install dependencies: `npm install`.
 
-- Run the command line/terminal and change directory to the LightBnB_WebApp folder.
+- Run the command line/terminal and change directory to the ``LightBnB_WebApp`` folder.
 
 - Start the server: `npm run local`
 - Visit http://localhost:3000/ in your browser.
