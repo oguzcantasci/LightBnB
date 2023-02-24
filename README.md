@@ -5,7 +5,7 @@
 
 At its core, Lighthouse BnB is clone of Airbnb where you can book reservations, view your reservations, look up property information and write reviews! 
 
-The aim of the project is to design a database with the use of ERDs, create and use SQL queries and integrating the database to the web app with a Node backend to display the retrieved information on the web app.
+The aim of the project is to design a database with the use of ERDs, create and use SQL queries and integrate the database to the web app with a Node backend to display the retrieved information on the web app.
 
 ## Getting Started
 
